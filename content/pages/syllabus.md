@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d9fa3e40-2f06-de90-bbc6-d8d51f2ea064
 ---
@@ -91,7 +93,7 @@ Final Assignment (5-page paper)
 Course Materials
 ----------------
 
-Relevant chapters from this textbook are required, or in some cases recommended, on the [Readings](http://ocw2.mit.edu/courses/history/21h-009-the-world-1400-present-spring-2014/readings/) schedule:
+Relevant chapters from this textbook are required, or in some cases recommended, on the [Readings]({{< baseurl >}}/pages/readings) schedule:
 
 Tignor, Robert, et al. _Worlds Together, Worlds Apart. Vol 2: From 1000 CE to the Present._ 4th ed. W. W. Norton & Company, 2013. ISBN: 9780393922097.
 

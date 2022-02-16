@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1f41442c-7363-b1af-0ec4-8a77e9c2e14c
 ---
@@ -465,7 +468,7 @@ Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Pro
 {{< tdopen >}}
 
 
-[William Bentinck: On Ritual Murder in India, 1829](http://legacy.fordham.edu/halsall/mod/1829bentinck.asp). Modern History Sourcebook, Fordham University.
+[William Bentinck: On Ritual Murder in India, 1829](https://sourcebooks.fordham.edu/mod/1829bentinck.asp). Modern History Sourcebook, Fordham University.
 
 Mani, Lata. "[Production of an Official Discourse on 'Sati' in Early Nineteenth Century Bengal](http://www.jstor.org/stable/4375595)." _Economic and Political Weekly_ 21, no. 17 (1986): 32–40.
 
