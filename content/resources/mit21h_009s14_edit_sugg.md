@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e437135d-cf87-7e61-6c35-a0d1f5ea56cb
 resourcetype: Document
 title: Editing Suggestions
 uid: 59b4f5d6-53dd-7377-0063-7d5d0644afaa

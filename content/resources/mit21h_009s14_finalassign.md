@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e437135d-cf87-7e61-6c35-a0d1f5ea56cb
 resourcetype: Document
 title: '21H.009S14 The World: 1400-Present: Assignments - Final'
 uid: 0b6cacd1-2254-cad9-ebe2-e12c830ad683

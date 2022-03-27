@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e437135d-cf87-7e61-6c35-a0d1f5ea56cb
 resourcetype: Document
 title: Visual Exercise 1 Images
 uid: 60c7c809-0eb9-746a-133f-1aef2b8b7a3c
