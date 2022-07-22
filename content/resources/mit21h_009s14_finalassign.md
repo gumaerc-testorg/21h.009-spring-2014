@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-009-the-world-1400-present-spring-2014/0b6cacd12254cad9ebe2e12c830ad683_MIT21H_009S14_FinalAssign.pdf
+file: /courses/21h-009-the-world-1400-present-spring-2014/0b6cacd12254cad9ebe2e12c830ad683_MIT21H_009S14_FinalAssign.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
