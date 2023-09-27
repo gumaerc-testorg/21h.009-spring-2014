@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly reading, listening and viewing
+  assignments, information on the required text, and links to other materials.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

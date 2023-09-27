@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, course materials, HASS Exploration
+  (HEX) subjects, plagiarism policy, and the schedule of weekly topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -93,7 +96,7 @@ Final Assignment (5-page paper)
 Course Materials
 ----------------
 
-Relevant chapters from this textbook are required, or in some cases recommended, on the [Readings]({{< baseurl >}}/pages/readings) schedule:
+Relevant chapters from this textbook are required, or in some cases recommended, on the {{% resource_link 1f41442c-7363-b1af-0ec4-8a77e9c2e14c "Readings" %}} schedule:
 
 Tignor, Robert, et al. _Worlds Together, Worlds Apart. Vol 2: From 1000 CE to the Present._ 4th ed. W. W. Norton & Company, 2013. ISBN: 9780393922097.
 
