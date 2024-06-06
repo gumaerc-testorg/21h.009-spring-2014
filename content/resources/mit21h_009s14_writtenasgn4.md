@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the information regarding "the world: 1400-present:
   assignments - written assignment 4".'
 file: /courses/21h-009-the-world-1400-present-spring-2014/e924551667d6388d1e711e6562ffb2e9_MIT21H_009S14_WrittenAsgn4.pdf
+file_size: 86848
 file_type: application/pdf
 learning_resource_types:
 - Assignments
