@@ -194,7 +194,7 @@ Consumption
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/faculty/kristel-smentek), Architecture, MIT)
+Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/people/kristel-smentek), Architecture, MIT)
 {{< tdclose >}}{{< tdopen >}}
 Fourth Written Assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
