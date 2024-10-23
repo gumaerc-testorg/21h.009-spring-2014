@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding "the world: 1400-present:
   assignments - visual assignment 2".'
-file: /courses/21h-009-the-world-1400-present-spring-2014/226d0760ff5ca5aabd583c7b78eded52_MIT21H_009S14_VisualAsign2.pdf
+file: /ol-ocw-studio-app/courses/21h-009-the-world-1400-present-spring-2014/226d0760ff5ca5aabd583c7b78eded52_MIT21H_009S14_VisualAsign2.pdf
 file_size: 96901
 file_type: application/pdf
 learning_resource_types:
