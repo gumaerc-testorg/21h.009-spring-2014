@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding "the world: 1400-present:
   assignments - written assignment 5".'
-file: /ol-ocw-studio-app/courses/21h-009-the-world-1400-present-spring-2014/59b9bc5a556a50c511a1107dbf0786c0_MIT21H_009S14_WrittenAsgn5.pdf
+file: /courses/21h-009-the-world-1400-present-spring-2014/59b9bc5a556a50c511a1107dbf0786c0_MIT21H_009S14_WrittenAsgn5.pdf
 file_size: 86112
 file_type: application/pdf
 learning_resource_types:
