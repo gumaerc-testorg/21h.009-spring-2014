@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding "the world: 1400-present:
   assignments - debate 1".'
-file: /courses/21h-009-the-world-1400-present-spring-2014/40846e2907fa14b56d1e4ac691a4ff11_MIT21H_009S14_Debate1.pdf
+file: /ol-ocw-studio-app/courses/21h-009-the-world-1400-present-spring-2014/40846e2907fa14b56d1e4ac691a4ff11_MIT21H_009S14_Debate1.pdf
 file_size: 120955
 file_type: application/pdf
 learning_resource_types:
