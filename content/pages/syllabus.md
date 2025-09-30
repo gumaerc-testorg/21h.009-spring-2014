@@ -61,11 +61,11 @@ Tignor, Robert, et al. *Worlds Together, Worlds Apart. Vol 2: From 1000 CE to th
 
 ## HEX Subject
 
-21H.009 is a [HASS Exploration](http://web.mit.edu/hassreq/exploration.html) (HEX) subject. HEX subjects are team-taught courses that explore a major concept or topic from multiple viewpoints found across or within disciplines in the humanities, arts, and social sciences. By showcasing the generative value of dialogue and debate among diverse disciplines, specials, theoretical frameworks, or methodologies, HEX subjects allow students to approach a given problem, phenomenon, or topic from multiple vantage points. Emphasizing close interaction with faculty, the courses encourage the development of foundational skills such as critical reading and analysis of primary materials. More broadly, they provide a pathway into modes of thinking that are central to the [HASS](http://shass.mit.edu/) curriculum and offer students an opportunity to explore concepts, topics, and histories that are crucial to understanding and inhabiting the complex world in which we live.
+21H.009 is a {{% resource_link "c27331e2-c269-4a36-9ee6-f67a9aedea42" "HASS Exploration" %}} (HEX) subject. HEX subjects are team-taught courses that explore a major concept or topic from multiple viewpoints found across or within disciplines in the humanities, arts, and social sciences. By showcasing the generative value of dialogue and debate among diverse disciplines, specials, theoretical frameworks, or methodologies, HEX subjects allow students to approach a given problem, phenomenon, or topic from multiple vantage points. Emphasizing close interaction with faculty, the courses encourage the development of foundational skills such as critical reading and analysis of primary materials. More broadly, they provide a pathway into modes of thinking that are central to the {{% resource_link "947a2fd5-eab4-427c-b836-efaa7735e9a7" "HASS" %}} curriculum and offer students an opportunity to explore concepts, topics, and histories that are crucial to understanding and inhabiting the complex world in which we live.
 
 ## Plagiarism
 
-The web now hosts many sites which offer college level papers of varying quality on a variety of topics. We are well acquainted with these sites, and with others that offer detection services to professors. Buying a paper and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that we will fully enforce. For the appropriate MIT definitions and policies, visit the following website, [Academic Integrity at MIT](https://integrity.mit.edu/). If you are uncertain about what constitutes cheating or plagiarism, please contact one of the instructors before submitting the work in question.
+The web now hosts many sites which offer college level papers of varying quality on a variety of topics. We are well acquainted with these sites, and with others that offer detection services to professors. Buying a paper and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that we will fully enforce. For the appropriate MIT definitions and policies, visit the following website, {{% resource_link "eb892803-071f-4252-a86f-72e68a3f0629" "Academic Integrity at MIT" %}}. If you are uncertain about what constitutes cheating or plagiarism, please contact one of the instructors before submitting the work in question.
 
 ## Calendar
 
@@ -194,7 +194,7 @@ Consumption
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/people/kristel-smentek), Architecture, MIT)
+Porcelain in Asia, Europe, and Museums Today ({{% resource_link "10366061-2c37-49e0-a8fa-463c82d83541" "Professor Kristel Smentek" %}}, Architecture, MIT)
 {{< tdclose >}}{{< tdopen >}}
 Fourth Written Assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -214,7 +214,7 @@ The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & [Professor Charles Shadle](http://mta.mit.edu/person/charles-shadle), Music and Theater, MIT)
+Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & {{% resource_link "4c3e5a9b-41ed-4e71-bf56-11fefe168611" "Professor Charles Shadle" %}}, Music and Theater, MIT)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -228,7 +228,7 @@ Fifth Written Assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Professor Sana Aiyar](http://history.mit.edu/people/sana-aiyar), History, MIT)
+Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ({{% resource_link "82e07652-04e2-4e87-8542-1f55442671f7" "Professor Sana Aiyar" %}}, History, MIT)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -236,13 +236,13 @@ Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Pro
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-1918: The Wilsonian Moment in the Middle East ([Professor Lerna Ekmekcioglu](http://history.mit.edu/people/lerna-ekmekcioglu), History, MIT)
+1918: The Wilsonian Moment in the Middle East ({{% resource_link "c51738a5-f190-4d4f-90a6-d1b6bf049a68" "Professor Lerna Ekmekcioglu" %}}, History, MIT)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-The Era of Mass Society and Total War ([Professor Hiromu Nagahara](http://history.mit.edu/people/hiromu-nagahara), History, MIT)
+The Era of Mass Society and Total War ({{% resource_link "255272d2-0506-4fc1-8f36-46ce415a7d5b" "Professor Hiromu Nagahara" %}}, History, MIT)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -250,7 +250,7 @@ The Era of Mass Society and Total War ([Professor Hiromu Nagahara](http://histor
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Ideology and Practice: The Cold War as a Way of Life ([Professor Chris Capozzola](http://history.mit.edu/people/christopher-capozzola), History, MIT)
+Ideology and Practice: The Cold War as a Way of Life ({{% resource_link "1d32a049-9326-4d76-a7cc-5ced5e1e8c17" "Professor Chris Capozzola" %}}, History, MIT)
 {{< tdclose >}}{{< tdopen >}}
 Third Visual Assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -264,7 +264,7 @@ Third Debate
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Migrations, Citizenship, and Identity in the Post-World War II Era ([Professor Emma Teng](http://history.mit.edu/people/emma-teng), History and Foreign Languages and Literature, MIT)
+Migrations, Citizenship, and Identity in the Post-World War II Era ({{% resource_link "6bc863a1-a45f-4481-80a9-0ba70e217789" "Professor Emma Teng" %}}, History and Foreign Languages and Literature, MIT)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
