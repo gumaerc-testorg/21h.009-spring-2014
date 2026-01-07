@@ -29,7 +29,7 @@ Introduction I. Time: World History and Deep History
 
 ### Recommended
 
-Christian, David. "The Beginnings of Human History." In *Maps of Time: An Introduction to Big History*. University of California Press, 2004, pp. 171–203. ISBN: 9780520235007. \[Preview with {{% resource_link "cab420d7-b347-45dd-b219-ccb5de7d68cf" "Google Books" %}}\]
+Christian, David. "The Beginnings of Human History." In *Maps of Time: An Introduction to Big History*. University of California Press, 2004, pp. 171–203. ISBN: 9780520235007. \[Preview with [Google Books](http://books.google.com/books?id=Bs_sLdKGS5gC&pg=PA171#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2**
@@ -38,7 +38,7 @@ Christian, David. "The Beginnings of Human History." In *Maps of Time: An Introd
 {{< tdclose >}}{{< tdopen >}}
 Introduction II. Space: "Reading" Maps
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c021d1fa-cc03-4ee3-ac07-bb609467584f" "*The History of Cartography*" %}}, University of Chicago Press.
+[*The History of Cartography*](http://www.press.uchicago.edu/books/HOC/index.html), University of Chicago Press.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -55,16 +55,16 @@ Medieval Travelers (Professor McCants & Professor Christopher Leighton, History,
 
 Parks, George B., ed. "Description of the Island of Chipangu, and the Great Kaan's Despatch of a Host Against It" and "What Further Came of the Great Khan's Expedition Against Chipangu." Chapters 2 and 3 in *The Travels of Marco Polo*, Book 3. The Book League of America, 1929, pp. 249–53.
 
-Dunn, Ross E., eds.  "Mecca." Chapter 4 in *The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century*. University of California Press, 2012, pp. 65–80. ISBN: 9780520272927. \[Preview with \[Google Books\]({{% resource_link "5b7f5659-b1f6-43ea-8eb9-a2bdf1459fe8" "http://books.google.com/books?id=hH55V-TGDHIC&pg=PA65=onepage" %}}  
+Dunn, Ross E., eds.  "Mecca." Chapter 4 in *The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century*. University of California Press, 2012, pp. 65–80. ISBN: 9780520272927. \[Preview with \[Google Books\]([http://books.google.com/books?id=hH55V-TGDHIC&pg=PA65=onepage](http://books.google.com/books?id=hH55V-TGDHIC&pg=PA65=onepage)  
 )\]
 
 Lopez, Robert, et al, ed. "Traveling to China." In *Medieval Trade in the Mediterranean World*. Columbia University Press, 2001, pp. 355–58. ISBN: 9780231123570.
 
-Xinhua News Agency. "{{% resource_link "714cb116-9aa1-4612-9dba-1a0726e8e5d1" "Zheng He: A Peaceful Mariner and Diplomat" %}}." July 12, 2005. China - Through A Lens.
+Xinhua News Agency. "[Zheng He: A Peaceful Mariner and Diplomat](http://www.china.org.cn/english/features/zhenhe/134661.htm#:~:text=From%201405%20to%201433%2C%20during,the%20world%20at%20that%20time.)." July 12, 2005. China - Through A Lens.
 
 Filesi, Teobaldo. "Inscription on Tianfei tablet." In *China and Africa in the Middle Ages*. Translated by David Morison. Routledge, 1972, pp. 57–61. ISBN: 9780714626048.
 
-Wade, Geoff, trans. {{% resource_link "c8ea1a5f-a191-4808-80fb-918e0241ab6d" "Southeast Asia in the Ming Shi-Lu, an Open Access Resource" %}}. The Singapore E-Press, National University of Singapore.
+Wade, Geoff, trans. [Southeast Asia in the Ming Shi-Lu, an Open Access Resource](http://epress.nus.edu.sg/msl/). The Singapore E-Press, National University of Singapore.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -72,13 +72,13 @@ Wade, Geoff, trans. {{% resource_link "c8ea1a5f-a191-4808-80fb-918e0241ab6d" "So
 Contact and Conflict in East Asia
 {{< tdclose >}}{{< tdopen >}}
 
-Brook, Timothy. "Vermeer's Hat." Chapter 2 in *Vermeer's Hat: The Seventeenth Century and the Dawn of the Global World*. Bloomsbury Press, 2008, pp. 26–53. ISBN: 9781596915992. \[Preview with {{% resource_link "9a59dcbc-422e-4154-9573-24d1471302a5" "Google Books" %}}\]
+Brook, Timothy. "Vermeer's Hat." Chapter 2 in *Vermeer's Hat: The Seventeenth Century and the Dawn of the Global World*. Bloomsbury Press, 2008, pp. 26–53. ISBN: 9781596915992. \[Preview with [Google Books](http://books.google.com/books?id=RQgjb3kvDLEC&pg=PA26#v=onepage)\]
 
 deBary, William. "Selections on Mateo Ricci in China." In *Sources of Chinese Tradition, Vol. 2: From 1600 through the Twentieth Century.* 2nd ed. Columbia University Press, 1999, pp. 14–29. ISBN: 9780231112710.
 
-Pomeranz, Kenneth, and Steven Topik. "When Asia Was the World Economy." Section 1.4 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005, pp. 18–20. ISBN: 9780765617095. \[Preview with {{% resource_link "b72f1541-45a6-4632-b8eb-2c997f70e43c" "Google Books" %}}\]
+Pomeranz, Kenneth, and Steven Topik. "When Asia Was the World Economy." Section 1.4 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005, pp. 18–20. ISBN: 9780765617095. \[Preview with [Google Books](http://books.google.com/books?id=sfhriEHBvUgC&pg=PA18#v=onepage)\]
 
-———. "Treating Good News as No News." Section 1.5 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005, pp. 18–20. ISBN: 9780765617095. \[Preview with {{% resource_link "ff7e88b1-e2db-45d0-a317-58dc93b76488" "Google Books" %}}\]
+———. "Treating Good News as No News." Section 1.5 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005, pp. 18–20. ISBN: 9780765617095. \[Preview with [Google Books](http://books.google.com/books?id=sfhriEHBvUgC&pg=PA21#v=onepage)\]
 
 ### Recommended
 
@@ -104,7 +104,7 @@ Contact and Conflict in the Americas
 
 Fernández-Armesto, Felipe. "Between Colonizations: The Americas' First 'Normalcy'." In *The Americas: A Hemispheric History*. Modern Library, 2006. ISBN: 9780812975543.
 
-{{% resource_link "40996238-b146-402c-ad7d-a81eadd12f86" "Treaty of Tordesillas" %}}, 1494. Encyclpedia Brittanica.
+[Treaty of Tordesillas](http://www.britannica.com/EBchecked/topic/599856/Treaty-of-Tordesillas), 1494. Encyclpedia Brittanica.
 
 Symcox, Geoffrey, and Blair Sullivan, eds. "Columbus's Legacy." In *Christopher Columbus and the Enterprise of the Indies: A Brief History with Documents.* Bedford / St. Martin's, 2005, pp. 30–34. ISBN: 9780312410216.
 
@@ -168,7 +168,7 @@ The Atlantic Revolutions in Global Context
 
 James, C. L. R. "The Property." In *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution*. Vintage, 1989, p. 6-26. ISBN: 9780679724674.
 
-French National Assembly. {{% resource_link "52114859-3a15-4fcd-be09-f211750e6d9d" "Declaration of the Rights of Man and Citizen" %}}*,* August 26, 1789. Roy Rosenzweig Center for History and New Media, George Mason University.
+French National Assembly. [Declaration of the Rights of Man and Citizen](https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen)*,* August 26, 1789. Roy Rosenzweig Center for History and New Media, George Mason University.
 
 "The Haitian Constitution, 1805." In *Slave Revolution in the Caribbean, 1789–1804: A Brief History with Documents*. Edited by Laurent Dubois, and John D. Garrigus. Bedford / St. Martin's, 2006, pp. 191–96. ISBN: 9780312415013.
 
@@ -201,15 +201,15 @@ Frader, Laura L. "Lowell Mill Girl Account." In *The Industrial Revolution: A Hi
 {{< tdclose >}}{{< tdopen >}}
 Consumption
 {{< tdclose >}}{{< tdopen >}}
-McCants, Anne E. C. "{{% resource_link "f3f66bb2-f07e-4cfe-881f-f3c3acc6c524" "Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World: Thinking about Globalization in the Early Modern World" %}}." *Journal of World History* 18, no. 4 (2007): 433–62.
+McCants, Anne E. C. "[Exotic Goods, Popular Consumption, and the Standard of Living: Thinking about Globalization in the Early Modern World: Thinking about Globalization in the Early Modern World](http://muse.jhu.edu/journals/journal_of_world_history/v018/18.4mccants.html)." *Journal of World History* 18, no. 4 (2007): 433–62.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 9**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Porcelain in Asia, Europe, and Museums Today ({{% resource_link "0df7b839-de14-4902-9fae-c403f72c288f" "Professor Kristel Smentek" %}}, Architecture, MIT)
+Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/faculty/kristel-smentek), Architecture, MIT)
 {{< tdclose >}}{{< tdopen >}}
-Finlay, Robert. "{{% resource_link "99f70815-c587-476f-852b-8a0677f8d6d2" "The Pilgrim Art: The Culture of Porcelain in World History" %}}." *Journal of World History* 9, no. 2 (1998): 141–87.
+Finlay, Robert. "[The Pilgrim Art: The Culture of Porcelain in World History](http://dx.doi.org/10.1353/jwh.2005.0099)." *Journal of World History* 9, no. 2 (1998): 141–87.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -227,14 +227,14 @@ The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & {{% resource_link "4c3e5a9b-41ed-4e71-bf56-11fefe168611" "Professor Charles Shadle" %}}, Music and Theater, MIT)
+Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & [Professor Charles Shadle](http://mta.mit.edu/person/charles-shadle), Music and Theater, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
 Fernández-Armesto, Felipe. "Independence: The New Dependency." In *The Americas: A Hemispheric History*. Modern Library, 2006. ISBN: 9780812975543.
 
-Pomeranz, Kenneth, and Steven Topik. "A British Merchant in the Tropics." Section 1.9 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005. ISBN: 9780765617095. \[Preview with {{% resource_link "2c79fcee-9a13-4ec4-ab43-d584cedebeba" "Google Books" %}}\]
+Pomeranz, Kenneth, and Steven Topik. "A British Merchant in the Tropics." Section 1.9 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005. ISBN: 9780765617095. \[Preview with [Google Books](http://books.google.com/books?id=sfhriEHBvUgC&pg=PA34#v=onepage)\]
 
-———. "Bouncing Around." Section 4.2 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005. ISBN: 9780765617095. \[Preview with {{% resource_link "b68f03ff-3f31-4633-b604-02148b369b0b" "Google Books" %}}\]
+———. "Bouncing Around." Section 4.2 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005. ISBN: 9780765617095. \[Preview with [Google Books](http://books.google.com/books?id=sfhriEHBvUgC&pg=PA118#v=onepage)\]
 
 ———. "How to Turn Nothing into Something: Guano's Ephemeral Fortunes." Section 4.6 in *The World That Trade Created: Society, Culture, and the World Economy, 1400 to the Present*. 2nd ed. M. E. Sharpe, 2005. ISBN: 9780765617095.
 
@@ -242,11 +242,11 @@ Pomeranz, Kenneth, and Steven Topik. "A British Merchant in the Tropics." Sectio
 
 Rice, John. "Galant Music in the New World." In *Music in the Eighteenth Century (Western Music in Context: A Norton History)*. W. W. Norton & Company, 2012, pp. 153–70. ISBN: 9780393929188.
 
-"{{% resource_link "1ff8a31a-4b0e-4c44-9a1d-e23a4cc773c9" "José Mauricio Nunes Garcia" %}}." Wikipedia.
+"[José Mauricio Nunes Garcia](https://en.wikipedia.org/wiki/Jos%C3%A9_Maur%C3%ADcio_Nunes_Garcia)." Wikipedia.
 
-"{{% resource_link "f5af8835-ad13-4ee9-abdd-33879fa2ec9f" "Antônio Carlos Gomes" %}}." Wikipedia.
+"[Antônio Carlos Gomes](https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Gomes)." Wikipedia.
 
-"{{% resource_link "713f61eb-d4d0-4f78-b935-2f7d6fd1c4b0" "Alberto Williams" %}}." Wikipedia.
+"[Alberto Williams](https://en.wikipedia.org/wiki/Alberto_Williams)." Wikipedia.
 
 *Listen to:*
 
@@ -264,14 +264,14 @@ Williams, Alberto. "'En la sierra' and other works for piano." Vol. 4. Valentín
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ({{% resource_link "82e07652-04e2-4e87-8542-1f55442671f7" "Professor Sana Aiyar" %}}, History, MIT)
+Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Professor Sana Aiyar](http://history.mit.edu/people/sana-aiyar), History, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3fc7d915-0c42-4c82-aaad-8e7f66fdde89" "William Bentinck: On Ritual Murder in India, 1829" %}}. Modern History Sourcebook, Fordham University.
+[William Bentinck: On Ritual Murder in India, 1829](https://sourcebooks.fordham.edu/mod/1829bentinck.asp). Modern History Sourcebook, Fordham University.
 
-Mani, Lata. "{{% resource_link "a76286bf-0ee7-4959-9b93-493a610ea168" "Production of an Official Discourse on 'Sati' in Early Nineteenth Century Bengal" %}}." *Economic and Political Weekly* 21, no. 17 (1986): 32–40.
+Mani, Lata. "[Production of an Official Discourse on 'Sati' in Early Nineteenth Century Bengal](http://www.jstor.org/stable/4375595)." *Economic and Political Weekly* 21, no. 17 (1986): 32–40.
 
-Murray, Jocelyn. "{{% resource_link "efc74f07-27a5-4722-be3c-2f07dc668746" "The Church Missionary Society and the 'Female Circumcision' Issue in Kenya 1929–1932" %}}." *Journal of Religion in Africa* 8, no. 2 (1976): 92–104.
+Murray, Jocelyn. "[The Church Missionary Society and the 'Female Circumcision' Issue in Kenya 1929–1932](http://www.jstor.org/stable/1594780)." *Journal of Religion in Africa* 8, no. 2 (1976): 92–104.
 
 Kenyatta, Jomo. "Initiation of Boys and Girls." In *Facing Mount Kenya: The Tribal Life of the Gikuyu*. Vintage Books, 1962. ISBN: 9780394702100.
 
@@ -286,17 +286,17 @@ Kenyatta, Jomo. "Initiation of Boys and Girls." In *Facing Mount Kenya: The Trib
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-1918: The Wilsonian Moment in the Middle East ({{% resource_link "c51738a5-f190-4d4f-90a6-d1b6bf049a68" "Professor Lerna Ekmekcioglu" %}}, History, MIT)
+1918: The Wilsonian Moment in the Middle East ([Professor Lerna Ekmekcioglu](http://history.mit.edu/people/lerna-ekmekcioglu), History, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "ef130159-920a-4a6e-969b-c7e6ebee8121" "Woodrow Wilson: Speech on the Fourteen Points, January 8, 1918" %}}. Modern History Sourcebook, Fordham University.
+[Woodrow Wilson: Speech on the Fourteen Points, January 8, 1918](http://legacy.fordham.edu/halsall/mod/1918wilson.html). Modern History Sourcebook, Fordham University.
 
 Manela, Erez. *The Wilsonian Moment, Self-Determination and the International Origins of Anticolonial Nationalism*. Oxford University Press, 2009, pp. 3–34 and 55–75. ISBN: 9780195378535. (recommended: 215–25).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-The Era of Mass Society and Total War ({{% resource_link "255272d2-0506-4fc1-8f36-46ce415a7d5b" "Professor Hiromu Nagahara" %}}, History, MIT)
+The Era of Mass Society and Total War ([Professor Hiromu Nagahara](http://history.mit.edu/people/hiromu-nagahara), History, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
 Weisenfeld, Gennifer. "[Selling Shiseido: Cosmetics Advertising & Design in Early 20th-Century Japan](/ans7870/21f/21f.027/shiseido_01/sh_essay01.html)." MIT Visualizing Cultures.
@@ -309,7 +309,7 @@ Weisenfeld, Gennifer. "[Selling Shiseido: Cosmetics Advertising & Design in Earl
 
 *In-class viewings*
 
-Excerpt from "{{% resource_link "41f2084b-73fb-4987-9734-2b8dfbb9a28a" "Why We Fight: War Comes to America" %}}." Directed by Frank Capra. 1943. Internet Archive.
+Excerpt from "[Why We Fight: War Comes to America](https://archive.org/details/wwf_war_comes_to_america)." Directed by Frank Capra. 1943. Internet Archive.
 
 "Japan and the Rise of Asia," (Japan, 1940).
 
@@ -318,14 +318,14 @@ Excerpt from "{{% resource_link "41f2084b-73fb-4987-9734-2b8dfbb9a28a" "Why We F
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Ideology and Practice: The Cold War as a Way of Life ({{% resource_link "1d32a049-9326-4d76-a7cc-5ced5e1e8c17" "Professor Chris Capozzola" %}}, History, MIT)
+Ideology and Practice: The Cold War as a Way of Life ([Professor Chris Capozzola](http://history.mit.edu/people/christopher-capozzola), History, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
-May, Elaine Tyler. "Cold War—Warm Hearth: Politics and the Family in Postwar America." In *The Rise and Fall of the New Deal Order, 1930–1980*. Edited by Steve Fraser and Gary Gerstle. Princeton University Press, 1989, pp. 153–81. ISBN: 9780691047614. \[Preview with {{% resource_link "73aea69a-5d85-4dd4-9d77-0434d519ad3a" "Google Books" %}}\]
+May, Elaine Tyler. "Cold War—Warm Hearth: Politics and the Family in Postwar America." In *The Rise and Fall of the New Deal Order, 1930–1980*. Edited by Steve Fraser and Gary Gerstle. Princeton University Press, 1989, pp. 153–81. ISBN: 9780691047614. \[Preview with [Google Books](http://books.google.com/books?id=yd4GqkP5XYgC&pg=PA153#v=onepage)\]
 
-Siegelbaum, Lewis H. "Introduction." In *The Socialist Car: Automobility in the Eastern Bloc*. Edited by Lewis H. Siegelbaum. Cornell University Press, 2011, p. 113. ISBN: 9780801477386. \[Preview with {{% resource_link "c7b117ff-24df-4c13-8438-355a419f0d69" "Google Books" %}}\]
+Siegelbaum, Lewis H. "Introduction." In *The Socialist Car: Automobility in the Eastern Bloc*. Edited by Lewis H. Siegelbaum. Cornell University Press, 2011, p. 113. ISBN: 9780801477386. \[Preview with [Google Books](http://books.google.com/books?id=jWCjOwz7qk4C&pg=PA1#v=onepage&q&f=false)\]
 
-Scroll to the bottom of the page of the map "{{% resource_link "87e3cc4c-fc3c-4bca-8eda-1aaffb36ca02" "Europe Divided, 1945–1989" %}}." Credo Reference.
+Scroll to the bottom of the page of the map "[Europe Divided, 1945–1989](http://search.credoreference.com/content/entry/andawh/europe_divided_1945_1989/0)." Credo Reference.
 
 ### Recommended
 
@@ -342,7 +342,7 @@ No readings.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Migrations, Citizenship, and Identity in the Post-World War II Era ({{% resource_link "6bc863a1-a45f-4481-80a9-0ba70e217789" "Professor Emma Teng" %}}, History and Foreign Languages and Literature, MIT)
+Migrations, Citizenship, and Identity in the Post-World War II Era ([Professor Emma Teng](http://history.mit.edu/people/emma-teng), History and Foreign Languages and Literature, MIT)
 {{< tdclose >}}{{< tdopen >}}
 
 Goldin, Ian, Geoffrey Cameron, et al. "PostWorld War II Migrations" and "Brain Drain and Brain Circulation." In *Exceptional People: How Migration Shaped Our World and Will Define Our Future*. Princeton University Press, 2011, pp. 85–93 and pp. 179–86. ISBN: 9780691145723.
